@@ -27,7 +27,7 @@ The project consists of:
 ---
 
 ## 🌐 Live Preview & Repository
-- **Live Preview** → [View Website](https://your-username.github.io/your-repo-name/)  
+- **Live Preview** → [View Website](https://rithikadevaragatla.github.io/keshav-task1/) 
 - **GitHub Repository** → [View Code](https://github.com/Rithikadevaragatla/keshav-task1)  
 
 
