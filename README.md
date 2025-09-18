@@ -28,6 +28,6 @@ The project consists of:
 
 ## 🌐 Live Preview & Repository
 - **Live Preview** → [View Website](https://your-username.github.io/your-repo-name/)  
-- **GitHub Repository** → [View Code](https://github.com/your-username/your-repo-name)  
+- **GitHub Repository** → [View Code](https://github.com/Rithikadevaragatla/keshav-task1)  
 
 
